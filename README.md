@@ -2,7 +2,7 @@
 **This project is part of the FRA143 course.**
 
 ## 👥 Group Members
-* **Kanrawee Korcharoen** (Student ID: 68340500004)
+* **Kanrawee Kojaroen** (Student ID: 68340500004)
 * **Jiranat Worachaiyut** (Student ID: 68340500011)
 * **Chonthara Jittiphanphornee** (Student ID: 68340500014)
 * **Arus Sangcharoenwanakul** (Student ID: 68340500055)
